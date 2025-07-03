@@ -1,0 +1,713 @@
+Genre,Mood,Language,Age
+fusion,sad,punjabi,adults
+hip-hop,romantic,gujarati,adults
+pop,happy,tamil,all ages
+pop,romantic,telugu,adults
+party,sad,bengali,adults
+party,sad,telugu,adults
+pop,sad,gujarati,adults
+pop,happy,malayalam,all ages
+classical,sad,kannada,adults
+party,sad,gujarati,adults
+bollywood,motivated,bengali,teens and adults
+classical,relaxed,hindi,adults
+classical,sad,malayalam,adults
+chill,sad,telugu,adults
+fusion,energetic,telugu,teens and adults
+devotional,romantic,marathi,adults
+bollywood,focused,hindi,adults
+hip-hop,motivated,malayalam,adults
+rock,calm,malayalam,adults
+rock,motivated,marathi,all ages
+party,romantic,kannada,adults
+pop,happy,hindi,all ages
+fusion,motivated,bengali,adults
+fusion,energetic,tamil,teens and adults
+classical,sad,tamil,adults
+chill,romantic,tamil,adults
+bollywood,focused,tamil,adults
+chill,relaxed,bengali,adults
+rock,sad,tamil,adults
+hip-hop,happy,bengali,all ages
+bollywood,romantic,telugu,teens and adults
+folk,sad,telugu,adults
+rock,happy,bengali,all ages
+chill,energetic,marathi,teens and adults
+folk,relaxed,gujarati,adults
+classical,motivated,malayalam,adults
+classical,focused,bengali,adults
+pop,calm,bengali,adults
+folk,energetic,punjabi,all ages
+devotional,romantic,telugu,adults
+fusion,romantic,bengali,adults
+pop,happy,punjabi,all ages
+chill,calm,gujarati,adults
+classical,happy,hindi,all ages
+party,sad,punjabi,adults
+rock,motivated,gujarati,adults
+devotional,happy,marathi,all ages
+devotional,sad,marathi,adults
+bollywood,relaxed,hindi,all ages
+devotional,sad,bengali,adults
+rock,motivated,punjabi,all ages
+devotional,energetic,bengali,adults
+classical,happy,gujarati,adults
+pop,motivated,bengali,adults
+fusion,calm,bengali,adults
+bollywood,sad,punjabi,adults
+hip-hop,sad,tamil,adults
+chill,energetic,tamil,adults
+hip-hop,happy,tamil,teens and adults
+classical,focused,marathi,adults
+folk,sad,hindi,adults
+rock,energetic,tamil,all ages
+party,energetic,tamil,teens and adults
+devotional,focused,punjabi,adults
+devotional,energetic,telugu,adults
+chill,motivated,marathi,all ages
+hip-hop,romantic,marathi,adults
+folk,happy,hindi,all ages
+hip-hop,focused,kannada,adults
+rock,relaxed,tamil,adults
+hip-hop,calm,tamil,adults
+rock,calm,bengali,adults
+party,focused,malayalam,adults
+hip-hop,relaxed,tamil,adults
+rock,focused,telugu,adults
+pop,relaxed,telugu,adults
+classical,happy,malayalam,adults
+bollywood,calm,bengali,all ages
+folk,focused,hindi,adults
+rock,motivated,malayalam,adults
+hip-hop,motivated,marathi,all ages
+chill,happy,kannada,adults
+rock,sad,telugu,adults
+pop,energetic,punjabi,all ages
+bollywood,relaxed,punjabi,all ages
+pop,calm,hindi,adults
+rock,motivated,telugu,adults
+pop,relaxed,tamil,adults
+classical,happy,kannada,all ages
+bollywood,happy,tamil,all ages
+pop,motivated,telugu,adults
+classical,calm,gujarati,adults
+classical,romantic,gujarati,adults
+chill,focused,bengali,adults
+classical,calm,tamil,adults
+rock,relaxed,gujarati,adults
+party,happy,punjabi,teens and adults
+chill,calm,bengali,adults
+folk,romantic,tamil,adults
+chill,romantic,bengali,adults
+pop,sad,telugu,adults
+chill,focused,kannada,adults
+devotional,happy,hindi,all ages
+fusion,energetic,kannada,teens and adults
+classical,focused,gujarati,adults
+classical,energetic,telugu,all ages
+devotional,calm,tamil,adults
+rock,romantic,tamil,adults
+rock,romantic,marathi,adults
+bollywood,relaxed,gujarati,all ages
+party,focused,telugu,adults
+bollywood,calm,telugu,all ages
+bollywood,focused,gujarati,all ages
+folk,motivated,hindi,adults
+devotional,energetic,hindi,teens and adults
+bollywood,romantic,marathi,teens and adults
+devotional,happy,tamil,adults
+bollywood,focused,malayalam,adults
+party,calm,hindi,adults
+hip-hop,energetic,malayalam,adults
+folk,calm,punjabi,adults
+fusion,motivated,gujarati,adults
+devotional,romantic,gujarati,adults
+folk,calm,tamil,adults
+folk,focused,kannada,adults
+fusion,calm,kannada,adults
+fusion,calm,marathi,adults
+chill,energetic,hindi,teens and adults
+pop,happy,kannada,all ages
+devotional,motivated,malayalam,adults
+devotional,motivated,telugu,adults
+hip-hop,relaxed,telugu,adults
+bollywood,happy,gujarati,all ages
+devotional,relaxed,malayalam,adults
+rock,energetic,bengali,all ages
+folk,energetic,bengali,all ages
+folk,relaxed,tamil,adults
+classical,focused,kannada,adults
+rock,sad,hindi,adults
+bollywood,romantic,kannada,teens and adults
+classical,romantic,kannada,adults
+fusion,sad,marathi,adults
+bollywood,relaxed,tamil,all ages
+hip-hop,energetic,kannada,all ages
+rock,focused,punjabi,adults
+fusion,calm,telugu,adults
+bollywood,energetic,gujarati,all ages
+pop,energetic,marathi,all ages
+chill,motivated,bengali,adults
+pop,romantic,hindi,adults
+rock,sad,kannada,adults
+chill,energetic,malayalam,adults
+classical,romantic,malayalam,adults
+classical,sad,telugu,all ages
+bollywood,motivated,gujarati,all ages
+chill,calm,kannada,adults
+devotional,happy,telugu,all ages
+fusion,relaxed,hindi,adults
+pop,focused,bengali,adults
+pop,romantic,bengali,adults
+pop,energetic,kannada,all ages
+pop,motivated,punjabi,all ages
+bollywood,energetic,hindi,teens and adults
+pop,happy,bengali,all ages
+hip-hop,happy,telugu,teens and adults
+party,energetic,gujarati,adults
+fusion,relaxed,tamil,adults
+bollywood,relaxed,malayalam,all ages
+fusion,sad,tamil,adults
+hip-hop,romantic,malayalam,adults
+bollywood,calm,tamil,all ages
+fusion,energetic,marathi,all ages
+folk,motivated,punjabi,all ages
+pop,motivated,gujarati,adults
+party,relaxed,kannada,adults
+party,calm,kannada,adults
+pop,happy,telugu,all ages
+fusion,motivated,tamil,teens and adults
+fusion,relaxed,malayalam,adults
+hip-hop,sad,marathi,adults
+chill,romantic,marathi,adults
+rock,relaxed,marathi,adults
+chill,happy,malayalam,adults
+folk,romantic,bengali,adults
+fusion,motivated,punjabi,all ages
+party,relaxed,malayalam,adults
+pop,romantic,gujarati,adults
+rock,motivated,tamil,all ages
+chill,calm,hindi,adults
+folk,calm,hindi,adults
+rock,energetic,punjabi,all ages
+devotional,relaxed,tamil,adults
+party,calm,gujarati,adults
+hip-hop,sad,hindi,adults
+rock,sad,punjabi,adults
+rock,calm,telugu,adults
+party,happy,tamil,teens and adults
+classical,romantic,hindi,adults
+classical,motivated,telugu,adults
+devotional,focused,marathi,adults
+chill,sad,punjabi,adults
+devotional,focused,malayalam,adults
+hip-hop,happy,punjabi,teens and adults
+classical,energetic,kannada,all ages
+bollywood,happy,malayalam,all ages
+classical,energetic,tamil,adults
+devotional,sad,punjabi,adults
+hip-hop,motivated,punjabi,all ages
+fusion,romantic,punjabi,adults
+chill,sad,bengali,adults
+hip-hop,calm,punjabi,all ages
+pop,motivated,malayalam,adults
+folk,happy,bengali,all ages
+bollywood,calm,punjabi,all ages
+bollywood,romantic,malayalam,teens and adults
+bollywood,romantic,gujarati,teens and adults
+classical,happy,tamil,adults
+folk,calm,bengali,adults
+party,energetic,malayalam,adults
+devotional,relaxed,hindi,adults
+bollywood,focused,telugu,adults
+bollywood,sad,tamil,adults
+fusion,relaxed,bengali,adults
+devotional,sad,tamil,adults
+folk,romantic,gujarati,adults
+hip-hop,sad,punjabi,all ages
+chill,sad,kannada,adults
+hip-hop,focused,malayalam,adults
+party,energetic,hindi,teens and adults
+fusion,calm,gujarati,adults
+folk,romantic,kannada,adults
+party,focused,marathi,adults
+fusion,energetic,punjabi,adults
+classical,sad,bengali,adults
+pop,sad,punjabi,adults
+party,focused,gujarati,adults
+hip-hop,energetic,punjabi,teens and adults
+rock,romantic,telugu,adults
+party,relaxed,punjabi,all ages
+classical,happy,marathi,adults
+bollywood,energetic,kannada,teens and adults
+bollywood,sad,gujarati,all ages
+hip-hop,motivated,tamil,all ages
+rock,happy,punjabi,all ages
+fusion,relaxed,punjabi,all ages
+devotional,relaxed,bengali,adults
+rock,happy,gujarati,all ages
+rock,motivated,bengali,adults
+hip-hop,calm,telugu,adults
+fusion,relaxed,marathi,adults
+folk,happy,punjabi,all ages
+party,relaxed,tamil,adults
+rock,relaxed,hindi,adults
+bollywood,calm,gujarati,all ages
+party,relaxed,marathi,adults
+devotional,focused,gujarati,adults
+hip-hop,happy,hindi,adults
+bollywood,sad,hindi,adults
+pop,romantic,kannada,adults
+bollywood,energetic,bengali,teens and adults
+pop,sad,bengali,adults
+fusion,sad,gujarati,adults
+chill,relaxed,tamil,adults
+rock,focused,malayalam,adults
+devotional,energetic,marathi,adults
+folk,focused,bengali,adults
+hip-hop,focused,tamil,adults
+classical,energetic,gujarati,adults
+chill,motivated,malayalam,adults
+pop,focused,gujarati,adults
+hip-hop,romantic,kannada,adults
+folk,motivated,telugu,adults
+devotional,calm,bengali,adults
+rock,energetic,marathi,all ages
+folk,sad,marathi,adults
+classical,happy,bengali,adults
+party,happy,bengali,teens and adults
+bollywood,focused,kannada,adults
+party,happy,marathi,all ages
+folk,motivated,malayalam,adults
+pop,focused,hindi,adults
+pop,calm,punjabi,adults
+classical,energetic,hindi,adults
+devotional,calm,malayalam,adults
+classical,motivated,gujarati,adults
+classical,relaxed,gujarati,adults
+devotional,sad,gujarati,adults
+pop,calm,telugu,adults
+bollywood,happy,hindi,all ages
+chill,focused,hindi,adults
+rock,sad,malayalam,adults
+fusion,happy,punjabi,all ages
+hip-hop,happy,kannada,teens and adults
+pop,focused,malayalam,adults
+classical,motivated,kannada,adults
+pop,energetic,tamil,all ages
+rock,romantic,malayalam,adults
+rock,relaxed,punjabi,adults
+pop,focused,telugu,adults
+devotional,calm,punjabi,adults
+folk,happy,marathi,all ages
+party,happy,hindi,teens and adults
+devotional,energetic,kannada,adults
+chill,happy,telugu,adults
+fusion,energetic,bengali,teens and adults
+pop,relaxed,gujarati,adults
+devotional,sad,kannada,adults
+fusion,focused,marathi,adults
+bollywood,motivated,punjabi,teens and adults
+pop,motivated,marathi,all ages
+folk,relaxed,kannada,adults
+chill,focused,marathi,adults
+devotional,calm,hindi,adults
+classical,romantic,bengali,adults
+party,relaxed,telugu,adults
+fusion,romantic,hindi,adults
+rock,relaxed,bengali,adults
+classical,calm,kannada,adults
+hip-hop,sad,gujarati,adults
+devotional,focused,kannada,adults
+rock,focused,gujarati,adults
+folk,romantic,malayalam,adults
+rock,energetic,gujarati,all ages
+party,happy,kannada,teens and adults
+chill,romantic,malayalam,adults
+folk,sad,bengali,adults
+classical,relaxed,kannada,adults
+devotional,sad,malayalam,adults
+devotional,motivated,bengali,adults
+folk,motivated,bengali,adults
+party,energetic,bengali,teens and adults
+hip-hop,relaxed,gujarati,adults
+chill,relaxed,malayalam,adults
+hip-hop,happy,marathi,all ages
+rock,romantic,kannada,adults
+chill,sad,malayalam,adults
+folk,happy,gujarati,all ages
+folk,happy,kannada,all ages
+hip-hop,relaxed,kannada,adults
+rock,romantic,bengali,adults
+bollywood,energetic,punjabi,teens and adults
+folk,romantic,hindi,adults
+devotional,sad,hindi,adults
+rock,calm,kannada,adults
+chill,energetic,bengali,adults
+bollywood,sad,telugu,adults
+rock,energetic,malayalam,all ages
+bollywood,energetic,malayalam,teens and adults
+fusion,calm,malayalam,adults
+folk,calm,gujarati,adults
+fusion,happy,bengali,adults
+party,calm,tamil,adults
+pop,romantic,punjabi,adults
+rock,energetic,hindi,all ages
+chill,romantic,telugu,adults
+pop,focused,punjabi,adults
+folk,energetic,hindi,all ages
+classical,relaxed,malayalam,adults
+chill,motivated,kannada,adults
+rock,relaxed,malayalam,adults
+rock,happy,malayalam,all ages
+classical,motivated,tamil,adults
+party,relaxed,hindi,adults
+folk,romantic,punjabi,adults
+devotional,motivated,tamil,teens and adults
+hip-hop,romantic,tamil,adults
+bollywood,relaxed,telugu,all ages
+party,romantic,tamil,adults
+pop,sad,kannada,adults
+rock,happy,hindi,all ages
+bollywood,sad,marathi,adults
+devotional,energetic,malayalam,adults
+rock,romantic,gujarati,adults
+pop,motivated,tamil,all ages
+chill,focused,malayalam,adults
+chill,romantic,kannada,adults
+folk,relaxed,hindi,adults
+chill,relaxed,kannada,adults
+devotional,relaxed,gujarati,adults
+hip-hop,romantic,hindi,adults
+classical,energetic,malayalam,adults
+folk,romantic,marathi,adults
+rock,energetic,telugu,all ages
+party,energetic,telugu,teens and adults
+fusion,calm,hindi,adults
+party,motivated,bengali,adults
+party,motivated,punjabi,all ages
+devotional,relaxed,kannada,adults
+party,energetic,kannada,teens and adults
+bollywood,happy,kannada,adults
+chill,relaxed,telugu,adults
+bollywood,motivated,hindi,teens and adults
+fusion,happy,malayalam,all ages
+fusion,romantic,kannada,adults
+folk,calm,marathi,adults
+bollywood,sad,malayalam,adults
+bollywood,motivated,telugu,teens and adults
+chill,motivated,tamil,teens and adults
+chill,sad,tamil,adults
+bollywood,happy,telugu,teens and adults
+party,romantic,marathi,adults
+party,happy,gujarati,adults
+rock,romantic,hindi,adults
+chill,sad,gujarati,adults
+rock,happy,telugu,all ages
+classical,calm,hindi,all ages
+rock,happy,kannada,all ages
+party,happy,malayalam,all ages
+pop,sad,marathi,adults
+bollywood,energetic,marathi,teens and adults
+fusion,focused,hindi,adults
+pop,relaxed,punjabi,adults
+bollywood,motivated,kannada,teens and adults
+hip-hop,sad,telugu,adults
+pop,energetic,telugu,all ages
+bollywood,romantic,punjabi,teens and adults
+folk,energetic,telugu,adults
+pop,calm,tamil,adults
+chill,romantic,gujarati,adults
+hip-hop,energetic,bengali,all ages
+hip-hop,energetic,hindi,adults
+folk,romantic,telugu,adults
+devotional,calm,marathi,adults
+fusion,happy,kannada,adults
+fusion,calm,tamil,adults
+folk,relaxed,bengali,adults
+devotional,romantic,punjabi,adults
+devotional,motivated,hindi,adults
+party,energetic,punjabi,adults
+party,romantic,bengali,adults
+party,romantic,malayalam,adults
+chill,motivated,punjabi,all ages
+chill,focused,punjabi,adults
+devotional,romantic,malayalam,adults
+bollywood,focused,bengali,adults
+devotional,energetic,punjabi,adults
+folk,calm,kannada,adults
+chill,relaxed,marathi,adults
+folk,energetic,marathi,all ages
+rock,calm,tamil,adults
+folk,relaxed,telugu,adults
+fusion,happy,telugu,adults
+hip-hop,sad,bengali,adults
+hip-hop,calm,bengali,adults
+chill,happy,punjabi,adults
+fusion,energetic,hindi,teens and adults
+folk,sad,malayalam,adults
+party,motivated,hindi,adults
+party,relaxed,bengali,adults
+pop,energetic,hindi,all ages
+chill,happy,tamil,adults
+devotional,happy,punjabi,adults
+classical,calm,marathi,adults
+hip-hop,focused,gujarati,adults
+hip-hop,focused,bengali,adults
+devotional,happy,bengali,adults
+fusion,romantic,malayalam,adults
+classical,happy,telugu,all ages
+classical,motivated,bengali,adults
+hip-hop,relaxed,punjabi,all ages
+chill,motivated,hindi,adults
+classical,motivated,marathi,adults
+bollywood,motivated,marathi,all ages
+folk,sad,gujarati,adults
+hip-hop,motivated,gujarati,adults
+chill,calm,telugu,adults
+folk,focused,marathi,adults
+devotional,romantic,kannada,adults
+fusion,motivated,telugu,adults
+party,focused,hindi,adults
+fusion,motivated,marathi,all ages
+bollywood,happy,marathi,all ages
+devotional,happy,malayalam,adults
+bollywood,romantic,hindi,teens and adults
+party,calm,punjabi,adults
+folk,happy,telugu,all ages
+pop,motivated,hindi,adults
+rock,energetic,kannada,all ages
+fusion,romantic,telugu,adults
+fusion,romantic,gujarati,adults
+hip-hop,sad,malayalam,adults
+bollywood,relaxed,kannada,all ages
+classical,romantic,marathi,adults
+fusion,sad,malayalam,adults
+devotional,motivated,marathi,all ages
+devotional,focused,tamil,adults
+pop,relaxed,hindi,adults
+devotional,calm,telugu,adults
+rock,sad,marathi,adults
+party,motivated,marathi,all ages
+hip-hop,relaxed,marathi,adults
+folk,sad,kannada,adults
+party,sad,hindi,adults
+chill,happy,bengali,adults
+party,sad,malayalam,adults
+chill,romantic,hindi,adults
+pop,relaxed,bengali,adults
+devotional,motivated,gujarati,adults
+hip-hop,happy,malayalam,all ages
+devotional,focused,hindi,adults
+bollywood,romantic,tamil,teens and adults
+classical,relaxed,marathi,adults
+hip-hop,focused,marathi,adults
+hip-hop,focused,punjabi,adults
+party,focused,punjabi,adults
+rock,calm,hindi,adults
+folk,relaxed,marathi,adults
+rock,focused,marathi,adults
+folk,sad,tamil,adults
+folk,sad,punjabi,adults
+fusion,energetic,malayalam,adults
+party,energetic,marathi,all ages
+chill,energetic,punjabi,all ages
+fusion,romantic,tamil,adults
+rock,focused,kannada,adults
+party,romantic,telugu,adults
+rock,motivated,hindi,adults
+folk,motivated,kannada,adults
+classical,relaxed,bengali,adults
+devotional,romantic,hindi,adults
+folk,happy,malayalam,all ages
+chill,romantic,punjabi,adults
+folk,relaxed,malayalam,adults
+pop,focused,marathi,adults
+rock,sad,bengali,adults
+hip-hop,motivated,telugu,adults
+classical,relaxed,telugu,all ages
+folk,motivated,tamil,all ages
+folk,focused,telugu,adults
+party,sad,kannada,adults
+pop,romantic,tamil,adults
+hip-hop,focused,hindi,adults
+devotional,relaxed,marathi,adults
+classical,focused,tamil,adults
+hip-hop,motivated,kannada,adults
+chill,happy,marathi,adults
+devotional,energetic,tamil,adults
+pop,sad,tamil,adults
+chill,calm,punjabi,adults
+fusion,motivated,hindi,adults
+chill,sad,hindi,adults
+fusion,motivated,malayalam,adults
+hip-hop,calm,malayalam,adults
+chill,motivated,telugu,adults
+fusion,sad,bengali,adults
+pop,relaxed,kannada,adults
+party,sad,marathi,adults
+fusion,happy,hindi,adults
+classical,motivated,hindi,adults
+pop,energetic,gujarati,all ages
+devotional,motivated,kannada,adults
+hip-hop,energetic,telugu,teens and adults
+pop,energetic,malayalam,all ages
+chill,calm,malayalam,adults
+rock,romantic,punjabi,adults
+hip-hop,relaxed,bengali,adults
+devotional,focused,bengali,adults
+hip-hop,happy,gujarati,all ages
+pop,motivated,kannada,adults
+rock,happy,tamil,all ages
+hip-hop,energetic,gujarati,adults
+hip-hop,calm,kannada,adults
+pop,sad,malayalam,adults
+chill,calm,marathi,adults
+devotional,sad,telugu,adults
+party,motivated,telugu,adults
+rock,focused,bengali,adults
+fusion,sad,hindi,adults
+chill,focused,telugu,adults
+chill,sad,marathi,adults
+chill,happy,hindi,teens and adults
+devotional,romantic,tamil,adults
+fusion,relaxed,gujarati,adults
+classical,sad,gujarati,adults
+pop,calm,malayalam,adults
+folk,energetic,kannada,all ages
+fusion,calm,punjabi,adults
+bollywood,calm,marathi,all ages
+fusion,romantic,marathi,adults
+folk,calm,malayalam,adults
+devotional,romantic,bengali,adults
+chill,relaxed,punjabi,all ages
+chill,calm,tamil,adults
+classical,energetic,marathi,adults
+fusion,focused,bengali,adults
+pop,calm,kannada,adults
+devotional,happy,gujarati,adults
+party,romantic,hindi,adults
+fusion,relaxed,telugu,adults
+devotional,relaxed,punjabi,all ages
+folk,focused,malayalam,adults
+hip-hop,romantic,bengali,adults
+hip-hop,motivated,hindi,adults
+devotional,calm,gujarati,adults
+pop,sad,hindi,adults
+bollywood,happy,bengali,all ages
+devotional,focused,telugu,adults
+fusion,motivated,kannada,adults
+classical,calm,telugu,all ages
+devotional,happy,kannada,all ages
+hip-hop,relaxed,hindi,adults
+fusion,happy,gujarati,adults
+bollywood,motivated,tamil,teens and adults
+bollywood,calm,kannada,all ages
+folk,focused,punjabi,adults
+classical,focused,malayalam,adults
+bollywood,calm,hindi,all ages
+devotional,relaxed,telugu,adults
+pop,energetic,bengali,all ages
+party,focused,tamil,adults
+hip-hop,energetic,marathi,all ages
+rock,happy,marathi,all ages
+hip-hop,focused,telugu,adults
+hip-hop,romantic,telugu,adults
+devotional,energetic,gujarati,adults
+fusion,happy,tamil,teens and adults
+folk,happy,tamil,all ages
+bollywood,relaxed,marathi,all ages
+party,motivated,tamil,teens and adults
+classical,focused,hindi,adults
+chill,motivated,gujarati,adults
+fusion,energetic,gujarati,adults
+bollywood,focused,punjabi,adults
+bollywood,sad,kannada,adults
+folk,energetic,tamil,all ages
+bollywood,romantic,bengali,teens and adults
+party,focused,kannada,adults
+hip-hop,calm,hindi,adults
+folk,motivated,gujarati,all ages
+pop,happy,marathi,all ages
+bollywood,motivated,malayalam,teens and adults
+rock,relaxed,telugu,adults
+rock,sad,gujarati,adults
+pop,romantic,malayalam,adults
+party,romantic,punjabi,adults
+party,calm,bengali,adults
+chill,focused,gujarati,adults
+pop,relaxed,malayalam,adults
+folk,focused,tamil,adults
+folk,energetic,malayalam,all ages
+fusion,relaxed,kannada,adults
+hip-hop,motivated,bengali,adults
+party,motivated,malayalam,adults
+classical,romantic,tamil,adults
+fusion,focused,gujarati,adults
+hip-hop,romantic,punjabi,adults
+bollywood,happy,punjabi,all ages
+chill,energetic,gujarati,adults
+fusion,focused,tamil,adults
+classical,sad,hindi,adults
+folk,focused,gujarati,adults
+bollywood,calm,malayalam,all ages
+fusion,sad,telugu,adults
+party,happy,telugu,adults
+party,calm,telugu,adults
+hip-hop,sad,kannada,adults
+classical,energetic,bengali,adults
+rock,relaxed,kannada,adults
+fusion,focused,kannada,adults
+rock,focused,tamil,adults
+pop,calm,gujarati,adults
+bollywood,sad,bengali,adults
+rock,calm,marathi,adults
+devotional,calm,kannada,adults
+hip-hop,calm,marathi,adults
+pop,focused,tamil,adults
+folk,calm,telugu,adults
+chill,focused,tamil,adults
+chill,happy,gujarati,adults
+party,relaxed,gujarati,adults
+chill,relaxed,hindi,adults
+fusion,happy,marathi,all ages
+pop,calm,marathi,adults
+fusion,focused,malayalam,adults
+fusion,focused,telugu,adults
+folk,motivated,marathi,all ages
+party,motivated,gujarati,adults
+fusion,sad,kannada,adults
+bollywood,relaxed,bengali,all ages
+party,motivated,kannada,adults
+fusion,focused,punjabi,adults
+pop,romantic,marathi,adults
+bollywood,energetic,telugu,teens and adults
+rock,calm,gujarati,adults
+party,calm,marathi,adults
+folk,energetic,gujarati,all ages
+pop,focused,kannada,adults
+folk,relaxed,punjabi,adults
+hip-hop,calm,gujarati,adults
+hip-hop,relaxed,malayalam,adults
+party,focused,bengali,adults
+rock,focused,hindi,adults
+rock,calm,punjabi,adults
+chill,energetic,telugu,adults
+classical,focused,telugu,adults
+chill,energetic,kannada,adults
+classical,calm,bengali,adults
+hip-hop,energetic,tamil,all ages
+classical,sad,marathi,adults
+party,calm,malayalam,adults
+rock,motivated,kannada,adults
+pop,happy,gujarati,all ages
+party,romantic,gujarati,adults
+classical,relaxed,tamil,adults
+devotional,motivated,punjabi,all ages
+bollywood,energetic,tamil,teens and adults
+chill,relaxed,gujarati,adults
+bollywood,focused,marathi,adults
+classical,romantic,telugu,adults
+pop,relaxed,marathi,adults
+party,sad,tamil,adults
+classical,calm,malayalam,adults
